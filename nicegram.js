@@ -39,7 +39,7 @@ try {
       user.subscriptionPlus = true;
       user.gems_balance = 10000000;
       // 如需解锁敏感内容（18+）开关，解开下一行
-      // user.sensitiveContentEnabled = true;
+      user.sensitiveContentEnabled = true;
     }
   }
 
